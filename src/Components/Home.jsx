@@ -308,7 +308,7 @@ const Home = () => {
         </div>
 
         {/* Header */}
-        <div className="bg-white rounded-lg shadow-md p-4 mb-6 flex justify-end">
+        <div className="bg-white rounded-lg shadow-md p-4 mb-6 flex justify-center">
           <div className="text-left flex flex-col justify-evenly">
             <div>
               <p className="text-4xl font-bold text-black">Hello,</p>
