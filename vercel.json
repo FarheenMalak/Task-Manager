@@ -1,9 +1,1 @@
-{
-  "redirects": [
-    {
-      "source": "/(?!login|home)(.*)",
-      "destination": "/index.html",
-      "permanent": true
-    }
-  ]
-}
+
